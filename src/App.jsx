@@ -19,7 +19,7 @@ function App() {
   }, [])
 
   return (
-    <>
+    <body className="" >
       {!showOtherScreen ? (
         <div className="relative w-full overflow-hidden">
           <div className="absolute inset-0 bg-[url('https://images.pexels.com/photos/749564/pexels-photo-749564.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2')]    bg-cover bg-center opacity-30 z-[-1]">
@@ -49,7 +49,7 @@ function App() {
         </div>
         )
       )}
-    </>
+    </body>
     
     
   );

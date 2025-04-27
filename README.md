@@ -2,7 +2,7 @@
 
 This project is a responsive and visually engaging animated dashboard built using a modern front-end stack. It leverages the power of React for component-based architecture, Redux for predictable state management, React Hooks for functional component logic, Tailwind CSS for rapid styling, and Framer Motion for smooth and delightful animations.
 
-Live running Vercel link:- 
+Live running Vercel link:- https://animated-dashboard-xi.vercel.app/
 
 ## ✨ Features
 
