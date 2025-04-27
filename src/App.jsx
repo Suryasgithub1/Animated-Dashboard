@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import Header from './components/Header.jsx';
 import Sidebar from './components/Sidebar';
 import MainContent from './components/MainContent';
-import './index.css'; 
+import './Index.css'; 
 import MiddleBar from './components/MiddleBar.jsx';
 import MainContentWithApp from "./components/MainContentWithApp.jsx"
 import SidebarWithApp from './components/SideBarWithApp.jsx';
